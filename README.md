@@ -22,6 +22,3 @@ Feel free to collaborate with your peers by reviewing their pull requests, provi
 If you have any questions, encounter issues, or need clarification about the course material or repository, you can contact me at aniketandhale94@gmail.com
 
 Let's embark on this data science journey together and make the most out of this course!
-
-Best regards,                                                                                                                                                        
-Aniket Andhale
